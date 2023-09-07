@@ -1,0 +1,13 @@
+/node_modules/
+/secrets.json
+/artifacts/
+/cache/
+/.idea/.gitignore
+/.idea/GameFi.iml
+/.idea/modules.xml
+/.idea/vcs.xml
+/contracts/flatten/
+/temp/
+/deploymentCache.json
+/deployNFTAddresses.json
+/deployWorkerGameAddresses.json
