@@ -1,0 +1,11 @@
+{
+  "name": "@nominex/contracts-abi",
+  "version": "2.5.0",
+  "description": "ABI of the Nominex smart contracts",
+  "keywords": [
+    "nominex",
+    "abi"
+  ],
+  "author": "Nominex",
+  "license": "MIT"
+}
